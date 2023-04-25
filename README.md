@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alexis Herrera Saucedo</h1>
 <h3 align="center">Frontend developer with 2 years of experience using technologies such as Vue, Nuxt, Vuetify, GraphQL, Vuex, and Pinia. Proficient in page design with Figma. Skilled in training in Vue and Nuxt.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexishs458&label=Profile%20views&color=0e75b6&style=flat" alt="alexishs458" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexishs458" alt="alexishs458" /></a> </p>
+
+- 📫 How to reach me **alexishs451@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexishs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexishs" height="30" width="40" /></a>
